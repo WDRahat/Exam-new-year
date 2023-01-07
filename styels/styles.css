@@ -8,7 +8,7 @@
 .banner {
     height: 700px;
     left: 20px;
-    background-image: url('/images/banner/banner3.png');
+    background-image: url('images/banner/banner3.png');
     background-size: cover;
     display: flex;
     margin-bottom: 100px;
@@ -170,7 +170,7 @@ main {
 .call-to-action {
    margin-top: 70px;
     height: 300px;
-    background: linear-gradient(90deg, #0d8ad3 0%, rgba(241, 91, 34, 0) 100%), url('/images/watch.png');
+    background: linear-gradient(90deg, #0d8ad3 0%, rgba(241, 91, 34, 0) 100%), url('images/watch.png');
     border-radius: 8px;
     padding: 0 65px;
     display: flex;
